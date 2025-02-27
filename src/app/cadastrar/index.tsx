@@ -6,7 +6,7 @@ export function Cadastrar() {
     return (
         <div>
             <h1>CADASTRAR USUARIO</h1>
-
+            
         </div>
 
             )
